@@ -1,0 +1,17 @@
+C:\Users\Nubet\source\repos\Barka\Barka\bin\Release\net5.0-windows\Barka.exe
+C:\Users\Nubet\source\repos\Barka\Barka\bin\Release\net5.0-windows\Barka.deps.json
+C:\Users\Nubet\source\repos\Barka\Barka\bin\Release\net5.0-windows\Barka.runtimeconfig.json
+C:\Users\Nubet\source\repos\Barka\Barka\bin\Release\net5.0-windows\Barka.runtimeconfig.dev.json
+C:\Users\Nubet\source\repos\Barka\Barka\bin\Release\net5.0-windows\Barka.dll
+C:\Users\Nubet\source\repos\Barka\Barka\bin\Release\net5.0-windows\ref\Barka.dll
+C:\Users\Nubet\source\repos\Barka\Barka\bin\Release\net5.0-windows\Barka.pdb
+C:\Users\Nubet\source\repos\Barka\Barka\obj\Release\net5.0-windows\Barka.Barka.resources
+C:\Users\Nubet\source\repos\Barka\Barka\obj\Release\net5.0-windows\Barka.csproj.GenerateResource.cache
+C:\Users\Nubet\source\repos\Barka\Barka\obj\Release\net5.0-windows\Barka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nubet\source\repos\Barka\Barka\obj\Release\net5.0-windows\Barka.AssemblyInfoInputs.cache
+C:\Users\Nubet\source\repos\Barka\Barka\obj\Release\net5.0-windows\Barka.AssemblyInfo.cs
+C:\Users\Nubet\source\repos\Barka\Barka\obj\Release\net5.0-windows\Barka.csproj.CoreCompileInputs.cache
+C:\Users\Nubet\source\repos\Barka\Barka\obj\Release\net5.0-windows\Barka.dll
+C:\Users\Nubet\source\repos\Barka\Barka\obj\Release\net5.0-windows\ref\Barka.dll
+C:\Users\Nubet\source\repos\Barka\Barka\obj\Release\net5.0-windows\Barka.pdb
+C:\Users\Nubet\source\repos\Barka\Barka\obj\Release\net5.0-windows\Barka.genruntimeconfig.cache

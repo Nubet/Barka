@@ -1,0 +1,1 @@
+napisalem to w godzine wiec kod mozna mylo by skrocic/zoptymalizowac ale przy tak malym projekcie to raczej zbedne
