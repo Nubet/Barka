@@ -56,10 +56,8 @@ namespace Barka
             {
                 
 				
-                string sharingUrl2 = "https://1drv.ms/u/s!ArWBY_HBtPGeff3mYX5ovyAzeJE?e=8BaW6o";
-                string base64Value2 = System.Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(sharingUrl2));
-                string encodedUrl2 = "u!" + base64Value2.TrimEnd('=').Replace('/', '_').Replace('+', '-');
-                string resultUrl2 = string.Format("https://api.onedrive.com/v1.0/shares/{0}/root/content", encodedUrl2);
+               
+                string resultUrl2 = "https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcldCWV9IQnRQR2VmZjNtWVg1b3Z5QXplSkU_ZT04QmFXNm8/root/content";
                 WebClient webClient2 = new WebClient();
                 webClient2.DownloadFile(resultUrl2, BarkaPath);
             }
