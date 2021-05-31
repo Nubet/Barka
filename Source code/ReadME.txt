@@ -1,1 +1,1 @@
-napisalem to w godzine wiec kod mozna mylo by skrocic/zoptymalizowac ale przy tak malym projekcie to raczej zbedne
+napisalem to w godzine wiec kod mozna mylo by skrocic/zoptymalizowac ale przy tak malym projekcie to raczej zbedne // w czwartek LUB piatek poprawie kod i zoptymalizuje to sprawdzanie godziny, moze dodac menu czy cos (Wybor wersji barki )
